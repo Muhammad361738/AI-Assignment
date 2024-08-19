@@ -1,0 +1,38 @@
+
+ #img{
+    display: flex;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+ }
+.details{
+    display: flex;
+    margin-left: 120px;
+    gap: 15px;
+}
+#a{
+    text-size-adjust: 20px;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.row1{
+    display: flex;
+    border: 1px solid black;
+    margin-right: 800px;
+    
+}
+h4{
+    margin-top: 1%;
+    font-size: 25px;
+    margin-left: 150px;
+}
+.edu{
+    
+  border: 1px  solid black;
+  border-width: 50px;
+  /* margin-left: 800px; */
+  /* margin-bottom:400; */
+    /* border-width: 70px; */
+
+    
+}
