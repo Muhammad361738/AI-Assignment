@@ -5,15 +5,19 @@
 }
  
  h1{
+    flex-wrap: wrap;
     background-color: green;
     color: white;
     padding: 15px;
     
  }
  .detail{
+    flex-wrap: wrap;
     display: flex;
+    flex-wrap: wrap;
  }
  .detail img{
+    flex-wrap: wrap;
     margin-left: 150px;
     margin-top: 15px;
     height: 120px;
@@ -21,21 +25,24 @@
     border-radius: 50%;
  }
 h3{
+    flex-wrap: wrap;
     margin-top: 8px;
     margin-left: 180px;
 }
 #cv{
+    flex-wrap: wrap;
     margin-top: 25px ;
     padding-left: 25px;
  }
 
 .main{
-
+    flex-wrap: wrap;
     display: flex;
     gap: 250px;
     background-color:rgba(125, 128, 128, 0.2);
+    height: 800px;
 
-    /* background-color: gray; */
+    
 
 }
 #row1{
@@ -43,6 +50,7 @@ h3{
     padding-left: 35px;
 }
 #row2{
+    
     border-left: 2px solid gray;
     padding-left: 20px;
 }
